@@ -1,7 +1,7 @@
 ## Base url
 
 ```
-https://anydl.guruapi.tech
+https://anydl.frediapi.tech
 ```
 
 ## available/Working Endpoints
